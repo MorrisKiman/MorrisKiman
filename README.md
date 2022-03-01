@@ -1,4 +1,10 @@
 ### Hi there 👋
+**Mr. President** here...
+
+- 🔭 I’m currently working on an oracle forms project for server inventory
+- 🌱 I’m currently learning linux administration and JavaScript
+- 😄 Pronouns: HE is my pronoun. Keeps things simple and clear
+- ⚡ Fun fact: I enjoy a good challenge
 
 <!--
 **MorrisKiman/MorrisKiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
