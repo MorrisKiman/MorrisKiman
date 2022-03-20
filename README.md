@@ -1,4 +1,4 @@
-### The only thing stronger than fear is curiousity 👋
+### The only thing stronger than fear is curiousity
 **Mr. President** here...
 
 - 🔭 I’m currently working on an oracle forms project for server inventory
